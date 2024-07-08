@@ -1,0 +1,1 @@
+Merhaba, basit bir satranç oyunu yaptım.
